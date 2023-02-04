@@ -7,7 +7,6 @@ Please feel free to clone projects and raise issues if you think something could
 Happy Coding! 😊 </h4>
 
 
-
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <h2 align="center"> My projects 🚧 </h2>
