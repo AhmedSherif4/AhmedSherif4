@@ -18,6 +18,7 @@ Happy Coding! 😊 </h4>
 <a href="https://github.com/AhmedSherif4/sky_cast#readme" target="_blank"><img src="https://user-images.githubusercontent.com/45398293/216771305-343e8ac0-a01b-4f3f-b56c-719bd184619e.png"width="80px" alt="Sky Cast"></a>
 <a href="https://github.com/AhmedSherif4/tick_tack" target="_blank"><img src="https://github.com/user-attachments/assets/e0ef7768-8f5a-42af-95d5-2a41d576cbe8"width="80px" alt="Tick Tack"></a>
 <a href="https://github.com/AhmedSherif4/to_do_do#readme" target="_blank"><img src="https://user-images.githubusercontent.com/45398293/216771309-15a3c200-983b-4a61-a118-ec48e0cb2bae.png"width="80px" alt="To Do Do"></a>
+<a href="https://github.com/AhmedSherif4/posts_app" target="_blank"><img src="https://github.com/user-attachments/assets/e49026af-93b7-444a-8485-40d9fcd24c4d"width="80px" alt="Posts App"></a>
 
 </div>
 
