@@ -13,7 +13,7 @@ Happy Coding! 😊 </h4>
 
   
 <p align="center">
-<a  href="https://play.google.com/store/apps/details?id=com.edu_tasses.tasesse_app&pli=1" target="_blank"><img src="https://github.com/user-attachments/assets/56046486-9981-4042-ba75-ddc0b98dfd97" width="90px" alt="Taseese"></a>
+<a  href="https://play.google.com/store/apps/details?id=com.edu_tasses.tasesse_app&pli=1" target="_blank"><img src="https://github.com/user-attachments/assets/56046486-9981-4042-ba75-ddc0b98dfd97" width="110px" alt="Taseese"></a>
 <a  href="https://github.com/AhmedSherif4/point_counter#readme" target="_blank"><img src="https://user-images.githubusercontent.com/45398293/216771307-ea4eee60-5ab6-46a5-a4f9-c4f236683d48.png" width="80px" alt="Point Counter"></a>
 <a href="https://github.com/AhmedSherif4/sky_cast#readme" target="_blank"><img src="https://user-images.githubusercontent.com/45398293/216771305-343e8ac0-a01b-4f3f-b56c-719bd184619e.png"width="80px" alt="Sky Cast"></a>
 <a href="https://github.com/AhmedSherif4/to_do_do#readme" target="_blank"><img src="https://user-images.githubusercontent.com/45398293/216771309-15a3c200-983b-4a61-a118-ec48e0cb2bae.png"width="80px" alt="To Do Do"></a>
